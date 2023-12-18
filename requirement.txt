@@ -1,7 +1,8 @@
 streamlit 
-matplotlib==3.4.3
 MO, TU, WE, TH, FR, SA, SU
 datetime, timedelta
 calendar
 numpy
 gspread
+selenium
+matplotlib==3.4.3
