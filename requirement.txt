@@ -1,5 +1,5 @@
 streamlit 
-matplotlib.pyplot 
+matplotlib
 MO, TU, WE, TH, FR, SA, SU
 datetime, timedelta
 calendar
