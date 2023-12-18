@@ -1,9 +1,6 @@
-streamlit 
+streamlit==0.88.0
 matplotlib==3.4.3
-MO, TU, WE, TH, FR, SA, SU
-datetime
-timedelta
-calendar
-numpy
-gspread
-selenium
+numpy==1.21.2
+gspread==4.0.1
+selenium==3.141.0
+chromedriver-autoinstaller==0.2.1
