@@ -1,0 +1,8 @@
+streamlit 
+matplotlib
+MO, TU, WE, TH, FR, SA, SU
+datetime, timedelta
+calendar
+numpy
+gspread
+selenium
